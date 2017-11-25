@@ -1,0 +1,16 @@
+{
+  "name": "learning-webassembly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wat2js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wat2js": "^1.1.1"
+  }
+}
